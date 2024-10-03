@@ -14,7 +14,7 @@ Las redes de computadoras son fundamentales en la comunicación moderna, permiti
     * Máscaras de Subred
     * Rangos Privados y Públicos
 
-Para obtener más información detallada sobre el direccionamiento IP, consulta el archivo [Direccionamiento IP](/tarea4b.md), donde se explica cada clase de dirección IP, sus rangos y sus usos.
+Para obtener más información detallada sobre el direccionamiento IP, consulta el archivo [Direccionamiento IP](/tarea4b.md), donde se explica cada clase de dirección IP, sus rangos y sus usos. hola
 
 # Objetivos del Documento
 
